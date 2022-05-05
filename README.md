@@ -4,16 +4,14 @@ This will allow you to perform Data Analytics and Represent the Results in Graph
 
 Technologies Used:
 
-Python - 
-
-  Driver Language
+# Python - 
   
   BeautifulSoup - For Web Scrapping Data 
   
   Matplotlib - For Graphical Representation
 
 
-Apache - 
+# Apache - 
 
   kafka - For Data Producing & Consuming 
   
