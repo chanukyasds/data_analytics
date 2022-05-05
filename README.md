@@ -1,6 +1,6 @@
 # data_analytics
 
-This will allow you to perform Data Analytics and Represent the Results in Graphical Way.
+This module will allow you to Fetch data from website and Perform Data Analytics and Represent the Results in Graphical Way.
 
 Technologies Used:
 
@@ -18,7 +18,7 @@ Technologies Used:
   Pyspark  - For Data processing
 
 
-Future Developments:
+# Future Developments
 
 
 Integrating into Tableau/PowerBi.
